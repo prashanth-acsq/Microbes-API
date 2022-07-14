@@ -5,4 +5,4 @@
 
 `docker compose up -d`
 
-`docker exec predictive-maintenance-api-app-1 python py-client.py [<args> <values>]`
+`docker exec microbes-api-app-1 python py-client.py [<args> <values>]`
