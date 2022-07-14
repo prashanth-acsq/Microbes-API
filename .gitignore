@@ -1,0 +1,6 @@
+__pycache__
+venv
+.vscode
+.pytest_cache
+temp.*
+model_data

@@ -1,0 +1,1 @@
+start /MAX cmd /k "title API SERVER && cd venv/Scripts && activate && cd .. && cd .. && cls && uvicorn main:app --reload --port 4004"
